@@ -1,5 +1,4 @@
 # Crowdfunding-ETL
-Independent Funding, a crowdfunding platform for projects or ventures, has chosen to migrate their data to a PostgreSQL database due to its ability to facilitate more efficient analysis and reporting.
 
 ## Overview
 Independent Funding is a crowdfunding platform that has experienced significant growth in recent years. In order to improve efficiency in analyzing and reporting data to company stakeholders and potential donors, they have decided to move their data from Excel to a PostgreSQL database.
